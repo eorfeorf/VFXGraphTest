@@ -8,4 +8,8 @@ Do not use the models or textures in the project.
 
 - Assets/02<br>
 爆発みたいなエフェクト。
-![image](https://user-images.githubusercontent.com/10098082/128212844-aeedffcb-9b72-4747-83b9-a98b60f55279.png)
+![02](https://user-images.githubusercontent.com/10098082/128212844-aeedffcb-9b72-4747-83b9-a98b60f55279.png)
+
+- Assets/03<br>
+ポリゴンに添わせてキューブをうねらす。
+![03](https://user-images.githubusercontent.com/10098082/128342627-0be44d53-2e0c-4ae3-b46e-85cc28e7e154.png)
