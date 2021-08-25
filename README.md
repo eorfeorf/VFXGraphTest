@@ -13,3 +13,7 @@ Do not use the models or textures in the project.
 - Assets/03<br>
 ポリゴンに添わせてキューブをうねらす。
 ![03](https://user-images.githubusercontent.com/10098082/128342627-0be44d53-2e0c-4ae3-b46e-85cc28e7e154.png)
+
+- Assets/04<br>
+雨みたいなエフェクト。
+![image](https://user-images.githubusercontent.com/10098082/130785903-75f51742-c45a-46f1-8b74-263fce60117c.png)
