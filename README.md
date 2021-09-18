@@ -16,4 +16,8 @@ Do not use the models or textures in the project.
 
 - Assets/04<br>
 雨みたいなエフェクト。
-![image](https://user-images.githubusercontent.com/10098082/130785903-75f51742-c45a-46f1-8b74-263fce60117c.png)
+![04](https://user-images.githubusercontent.com/10098082/130785903-75f51742-c45a-46f1-8b74-263fce60117c.png)
+
+-Assets/05<br>
+GraphicsBuffferを用いて頂点にキューブを置く。
+![05](https://user-images.githubusercontent.com/10098082/133870763-0aa04378-a391-43a8-b37f-c32d50de988a.png)
